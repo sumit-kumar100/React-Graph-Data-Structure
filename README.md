@@ -1,5 +1,5 @@
-#React Graph Data Structure.
+# React Graph Data Structure.
 
-1. Clone the Project
-2. run command npm install
+1.  Clone the Project
+2.  run command npm install
 
