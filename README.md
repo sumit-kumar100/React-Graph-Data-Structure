@@ -4,7 +4,7 @@ Website URL :  https://react-i-graph.vercel.app/
 
 Instructions
 
-1.  Clone the Project
+1.  Clone the Project ( https://github.com/sumit-1196/React-Graph-Data-Structure.git ).
 2.  run command npm install
 
 Project Summary
