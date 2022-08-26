@@ -1,0 +1,37 @@
+1. Initial Edges
+
+routes = [
+    (Mumbai , Paris),
+    (Mumbai , Dubai),
+    (Paris , Dubai),
+    (Paris , New York),
+    (Dubai , New York),
+    (New York , Toronto)
+]
+
+    OR
+
+friends = [
+    (Sameer , Aayushi),
+    (Aayushi , Bhaskar),
+    (Sameer , Kamalnath Sharma),
+    (Kamalnath Sharma , Shanti Kumar Saha),
+    (Shanti Kumar Saha , Bhaskar)
+]
+
+
+2. Calculate all Possible Routes
+
+routes = {
+    Mumbai : [Paris,Dubai],
+    Paris : [Dubai,New York],
+    Dubai : [New York],
+    New York : [Toronto]
+}
+
+friends = {
+    Sameer : [Aayushi,Kamalnath Sharma],
+    Aayushi : [Bhaskar],
+    Kamalnath Sharma : [Shanti Kumar Saha],
+    Shanti Kumar Saha : [Bhaskar]
+}
