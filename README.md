@@ -1,6 +1,6 @@
 # React Graph Data Structure.
 
-Website Url :  https://react-i-graph.vercel.app/
+Website URL :  https://react-i-graph.vercel.app/
 
 Instructions
 
